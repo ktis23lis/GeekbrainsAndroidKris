@@ -15,7 +15,8 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="5dp"
-        android:hint="@string/your_name"/>
+        android:hint="@string/your_name"
+        />
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
