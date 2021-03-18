@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="textOfTextView">Hello World!</string>
+    <string name="someoneEditText">SomeOne</string>
+    <string name="buttonText">Ввести текст</string>
+    <string name="switchText">Изменить текст кнопки</string>
+    <string name="checkboxText">Do you like android?</string>
+    <string name="togglebuttonText">ToggleButton</string>
+    <string name="button">пошли на вторую активити</string>
+    <string name="off">Хочу видеть секретный вопрос</string>
+    <string name="on">Дуратский вопрос</string>
+    <string name="you_comment">you comment</string>
+    <string name="you_e_mail_address">you e-mail address</string>
+    <string name="check_your_password">check your password</string>
+    <string name="you_password">you password</string>
+    <string name="you_number">you number</string>
+    <string name="your_phone">your phone</string>
+    <string name="your_name">your name</string>
+    <string name="your_text">your text</string>
+
+</resources>
